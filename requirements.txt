@@ -1,0 +1,8 @@
+python -m venv OCR
+python.exe -m pip install --upgrade pip
+transformers
+torch
+pytesseract
+pillow
+sentencepiece
+sacremoses
