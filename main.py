@@ -12,7 +12,7 @@ print("... reading the contents")
 # Open an image file
 # image = Image.open(r'D:\\Chetan\\passion\\tesseract-poc\\images\\img3.png')
 
-base_dir = Path(r'D:\\Chetan\\passion\\tesseract-poc\\images')
+base_dir = Path(r'images')
 
 # Open an image file
 # image = Image.open(r'D:\\Chetan\\passion\\tesseract-poc\\images\\MicrosoftTeams-image (11).png')
